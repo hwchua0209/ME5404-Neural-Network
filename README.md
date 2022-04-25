@@ -7,6 +7,6 @@ This is a repo for NUS ME5404 Neural Network Assignments.
 
 [HW3](https://github.com/hwchua0209/ME5404-Neural-Network/tree/main/HW3) : Function Approx and Handwritten Digits Classification with RBFN, SOM <br>
 
-[SVM](https://github.com/hwchua0209/ME5404-Neural-Network/tree/main/SVM) : Spam Email Messages Classificcation with Support Vector Machine (SVM) <br>
+[SVM](https://github.com/hwchua0209/ME5404-Neural-Network/tree/main/SVM) : Spam Email Messages Classification with Support Vector Machine (SVM) <br>
 
 [RL](https://github.com/hwchua0209/ME5404-Neural-Network/tree/main/RL) : Q-Learning for World Grid Navigation <br>
