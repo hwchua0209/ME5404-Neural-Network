@@ -5,7 +5,7 @@ This is a repo for NUS ME5404 Neural Network Assignments.
 
 [HW2](https://github.com/hwchua0209/ME5404-Neural-Network/tree/main/HW2) : Gradient Descent & Newton's Method, Function Approx and Image Classification with MLP <br>
 
-[HW3](https://github.com/hwchua0209/ME5404-Neural-Network/tree/main/HW3) : Func Approx and Handwritten Digits Classification with RBFN, SOM <br>
+[HW3](https://github.com/hwchua0209/ME5404-Neural-Network/tree/main/HW3) : Function Approx and Handwritten Digits Classification with RBFN, SOM <br>
 
 [SVM](https://github.com/hwchua0209/ME5404-Neural-Network/tree/main/SVM) : Spam Email Messages Classificcation with Support Vector Machine (SVM) <br>
 
